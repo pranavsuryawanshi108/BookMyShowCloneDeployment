@@ -30,16 +30,6 @@ Welcome to the **Book My Show App Deployment** project! This project demonstrate
 - Set up **Prometheus** and **Grafana** for monitoring and visualization.
 - Implement **Trivy** for vulnerability scanning and **OWASP** for security best practices.
 
----
-
-## 🚀 **Other DevOps Projects**
-
-| **Project**                                | **Video Link**                                                                                   |
-|--------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **SWIGGY App Project**                     | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/x55z7rk0NAU) |
-| **Zomato App Project**                     | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/GyoI6-I68aQ) |
-| **Jenkins + Terraform + EKS Integration**  | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=sonarqube&logoColor=white)](https://youtu.be/DV79JyFbQE8) |
-| **AWS 3 Tier Architecture Project**        | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=nexus&logoColor=white)](https://youtu.be/Oj-Hr_aulKA) |
 
 ---
 ## 📣 **Feedback Request**
@@ -50,4 +40,4 @@ After deploying the app, share your feedback on LinkedIn! Tag me and include the
 
 ## 🎉 **Happy Learning!**  
 
-** Pranav Suryavanshi**
+# Pranav Suryavanshi**
